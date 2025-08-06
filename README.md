@@ -5,7 +5,7 @@ This project is about managing tasks allows user to add tasks to the to do list,
 **Tech stack**
 
 - python
-- python gradio library
+  
 
 
 ##  What do you need?
@@ -15,13 +15,16 @@ This project is about managing tasks allows user to add tasks to the to do list,
 - Browser supporting HTML5
 - python installed
 - python pip installed
+- jupyter notebook
+- python gradio library
 
 
 ##  Why is this useful?
 
 This project helps you:
-- practice python oops
+- practice python OOPs
 - understand python documentation
+- how to do CRUD on python list
   
 
 
